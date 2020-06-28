@@ -1,0 +1,2 @@
+This Julia code compares the Basis Scan reconstruction under different masks ;
+In reality, the masks should onley have 0(block) and 1(open) for different chips. We may still try with DCT, ceiled DCT, and Haar wavelets masks,etc.
